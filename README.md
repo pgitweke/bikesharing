@@ -32,7 +32,7 @@ The number of trips by duration graph verifies that majority of the trips taken 
 
 Ultimately, the heatmap below showcases the user type by gender which verifies the vast majority of subscribers being male.
 
-![User Trips by Gender by weekday](tripsbyGender_by_weekday.png) the bikeshare program would be a great investment mostly in densely populated areas due to demand. In addition, the percentage of subscribers versus customers is a good sign to the investment. More research needs to be carried to ensure incorporation of female drivers.
+![User Trips by Gender by weekday](tripsbyGender_by_weekday.png) 
 
 Summary
 
