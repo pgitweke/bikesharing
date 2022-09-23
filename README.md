@@ -8,7 +8,7 @@ Click [here](https://public.tableau.com/app/profile/peter.gitwekere/viz/NEWYORKC
 
 # Overview of Project
 
-The purpose of this project was to analyze bikeshare data for the month of August from CitiBike in New York City to present it to investors who are interested in investing to the bikeshare program. Key points of focus include :
+The purpose of this project was to analyze bikeshare data for the month of August from CitiBike in New York City. This analysis will be presented to potential investors of the bikeshare program. Key points of focus include :
 
 - Identifying checkout times for users
 - Identifying checkout times by Gender
@@ -22,7 +22,7 @@ After analyzing the data, we discovered that more than three-quarters of the use
 
 ![Customer Ride Count](customer_rideCount.png)
 
-A heatmap was designed from the analysis to visualize weekly usage patterns as seen below. Heavy bike usage can be observed during weekday commute times unlike the weekends when it is all spread out. The only exception is on Wednesday when there is low bike usage as per the chart which may indicate an opportunity to explore.
+A heatmap was designed from the analysis to visualize weekly usage patterns as seen below. Heavy bike usage can be observed during weekday commute times unlike the weekends when it is more sporadic. The only exception is on Wednesday when there is low bike usage as per the chart which may indicate an opportunity to explore.
 
 ![Weekly Usage Patterns](weekly_usagePatterns.png)
 
